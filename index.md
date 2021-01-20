@@ -1,5 +1,6 @@
 <header>
       <h2>Welcome to Zhichao Liu's Page</h2>
+      <link rel="stylesheet" href="mystyle.css">
 </header>
    
 <nav class="menu">
