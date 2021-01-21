@@ -15,9 +15,9 @@ h2 {
   color: (0, 120, 255);
 }
 
-/*li {
-  display: inline;
-}*/
+li {
+  display: none;
+}
 
 span {
   display: block;
@@ -26,6 +26,7 @@ span {
 .menu {
   color: hsl(248, 53%, 58%);
   margin: 25px 50px 75px;
+  display: inline;
 }
 
 .introduction {
@@ -41,8 +42,19 @@ span {
 
 #language {
    color: red;
-   text-decoration: underline;
-   
+   text-decoration: underline;   
+}
+
+#Contact {
+  max-width: 500px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+aside {
+  text-decoration: underline;
 }
 
 div {
@@ -52,7 +64,17 @@ div {
   border: 1px solid red;
   position: static;
   border: 3px solid #73AD21;
+}
 
+div.static {
+  position: static;
+  border: 3px solid #73AD21;
+}
+
+div.relative {
+  position: relative;
+  left: 30px;
+  border: 3px solid #73AD21;
 }
 
 p {
@@ -60,10 +82,6 @@ p {
   font-size: 20px;
   line-height: 20px;
   color: (#000000);
-  /* margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 20px;
-  margin-left: 20px; */
 }
 
 p.one {
