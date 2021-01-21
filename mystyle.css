@@ -42,8 +42,8 @@ span {
 }
 
 div {
-  background-color: blue;
-  width: 500px;
+  background-color: white;
+  width: 600px;
   margin: auto;
   border: 1px solid red;
   position: static;
