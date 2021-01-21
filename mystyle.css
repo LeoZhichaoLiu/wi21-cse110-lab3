@@ -17,8 +17,12 @@ menu {
   color: hsl(248, 53%, 58%);
 }
 
+div {
+  background-color: yellow;
+}
+
 p {
   font-family: times;
   color: (#000000);
-  font-size: 12px;
+  font-size: 15px;
 }
