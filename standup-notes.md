@@ -2,9 +2,13 @@
 
 ## Information:
 Time: Jan 21, 2021
+
 Author: Zhichao Liu
+
 Goal: Proceeding the css files for user page.
+
 Previous works: Implement a website with only HTML structure
+
 Future works: Add Javascript to make animation effect on website
 
 ## The works on today: 
