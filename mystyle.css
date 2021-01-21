@@ -54,12 +54,12 @@ div {
 p {
   font-family: times;
   font-size: 20px;
-  line-height: 50px;
+  line-height: 20px;
   color: (#000000);
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 p.one {
