@@ -1,6 +1,20 @@
 <header>
       <h2>Welcome to Zhichao Liu's Page</h2>
       <link rel="stylesheet" href="mystyle.css">
+      <style>
+        .grid-container {
+            display: grid;
+            background-color: #2196F3;
+            padding: 10px;
+       }
+       .grid-item {
+           background-color: rgba(255, 255, 255, 0.8);
+           border: 1px solid rgba(0, 0, 0, 0.8);
+           padding: 10px;
+           font-size: 10px;
+           text-align: center;
+      }
+</style>
 </header>
    
 <nav class="menu">
