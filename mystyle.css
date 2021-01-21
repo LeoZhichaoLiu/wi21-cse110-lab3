@@ -40,6 +40,10 @@ span {
   display: flex;
 }
 
+.grid-container {
+  display: inline-grid;
+}
+
 #language {
    color: red;
    text-decoration: underline;   
