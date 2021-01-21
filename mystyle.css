@@ -15,9 +15,9 @@ h2 {
   color: (0, 120, 255);
 }
 
-li {
+/*li {
   display: inline;
-}
+}*/
 
 span {
   display: block;
@@ -33,6 +33,10 @@ span {
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 80px;
+}
+
+.flex-container {
+  display: flex;
 }
 
 #language {
