@@ -21,7 +21,7 @@
     <header>
       <h2>Introduction to myself</h2>
     </header>
-    <section class = "personal statement">
+    <section class = "personal-statement">
          <h4> Myself </h4>
          <p> My name is Zhichao Liu, a international student from China. And in this user page, I will introduce some interests I have.</p>
          <p> First of all, my favirate language is Java </p>
@@ -261,6 +261,13 @@
             <td>2021</td>
       </tr> </tbody>
 </table>
+<div class="flex-container">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+  <div>4</div>
+  <div>5</div>
+</div> 
 <template id="productrow">
   <tr>
     <td class="record"></td>
