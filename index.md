@@ -4,6 +4,7 @@
       <style>
         .grid-container {
             display: grid;
+            grid-template-columns: auto auto auto;
             background-color: #2196F3;
             padding: 10px;
        }
@@ -14,7 +15,7 @@
            font-size: 10px;
            text-align: center;
       }
-</style>
+   </style>
 </header>
    
 <nav class="menu">
