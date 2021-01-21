@@ -2,11 +2,11 @@ body {
   background-color: pink;
 }
 
-@media screen and (min-width: 1000px) {
+/*@media screen and (min-width: 1000px) {
   body {
     background-color: lightblue;
   }
-}
+}*/
 
 /* This is the top head syntax for color and location */
 h1 {
@@ -71,6 +71,7 @@ span {
 }
 
 aside {
+  color: red;
   text-decoration: underline;
 }
 
