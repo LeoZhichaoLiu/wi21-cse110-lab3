@@ -261,6 +261,17 @@
             <td>2021</td>
       </tr> </tbody>
 </table>
+ <div class="grid-container">
+  <div class="grid-item">1</div>
+  <div class="grid-item">2</div>
+  <div class="grid-item">3</div>
+  <div class="grid-item">4</div>
+  <div class="grid-item">5</div>
+  <div class="grid-item">6</div>
+  <div class="grid-item">7</div>
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>
+</div> 
 <div class="flex-container">
   <div>1</div>
   <div>2</div>
